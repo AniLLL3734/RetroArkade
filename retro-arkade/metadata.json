@@ -1,0 +1,5 @@
+{
+  "name": "Retro Arkade",
+  "description": "A full-featured retro gaming website with classic SWF and HTML5 games, user accounts, high score leaderboards, and a comment system, all powered by React and Supabase.",
+  "requestFramePermissions": []
+}
