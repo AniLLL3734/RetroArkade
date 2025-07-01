@@ -12,10 +12,8 @@
     "@supabase/supabase-js": "^2.44.3",
     "next": "14.2.5",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
-    "react-router-dom": "^6.24.1", // <-- BU SATIRI EKLE
-  "@types/react-router-dom": "^5.3.3" // <-- VE BU SATIRI EKLE
-},
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.24.1"
   },
   "devDependencies": {
     "@types/node": "^20.14.10",
